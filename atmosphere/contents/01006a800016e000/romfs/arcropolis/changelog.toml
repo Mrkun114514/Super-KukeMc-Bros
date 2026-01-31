@@ -1,0 +1,45 @@
+title = "ARCropolis update: Ver. 1.1.0"
+date = "04/19/2021"
+description = "Thank you for updating to the latest version of ARCropolis.<br/>Please read the following changelog."
+
+[[entries]]
+section_title = "New Features"
+contents = """
+<ul>
+    <li>ARCadia-rs</li>
+</ul>
+<p>ARCadia-rs can be accessed from the \"Help\" menu by selecting <span style=\"color: skyblue\">How to Play</span>.</p>
+<ul>
+    <li>API support</li>
+</ul>
+<p>With version 1.0.0, support for the previous API has been deprecated, due in big part to major internal changes.</p>
+<p>This reworked version should help pushing the scene forward by allowing plugins to talk with ARCropolis.</p>
+<p>It is still in its early stage and might change a bit down the road for things such as support Stream files.</p>"""
+
+[[entries]]
+section_title = "Improvements"
+contents = """
+<ul>
+    <li>Improved file discovery code</li>
+    <li>New and much clearer changelog window (The very one you're reading)</li>
+    <li>Visual rework of the Workspace Selector</li>
+</ul>
+<p>The improved file discovery code comes with a change in mod loading priority.<br/>
+If multiple mods replace the same file, the priority will be determined by the loading order of modpacks<br/><br/>
+The order is as follow:<br/>
+Arc mods < UMM mods < Extra UMM mods</p>"""
+
+[[entries]]
+section_title = "Notes"
+contents = """
+<p>Starting with this release, jam1garner will become the primary maintainer for ARCropolis.</p>
+<p>While I'll stay around for a time, I won't be actively working on it anymore.</p>"""
+
+[[entries]]
+section_title = "Special Thanks"
+contents = """
+<ul>
+    <li>jam1garner, for recommendations and overseeing the API development</li>
+    <li>CoolSonicKirby, for both ARCadia-rs and this new changelog menu</li>
+    <li>Styley, for the ARCropolis logo displayed on the thumbnail</li>
+</ul>"""
