@@ -7,15 +7,14 @@
 **🐤这个模组有不少bug：**
 
 就是说，我根本没有做人物缩略图，所以你在游戏看到的≠你在游戏外看到的
-我不知道为什么，虽然我上传了16个皮肤（c00-c15），但是游戏并没有给出*另外一行*皮肤选择栏
 
 **❓我看完了，怎么安装？**
 
-1.下载本模组的最新版本（从Release页面或下载本仓库）
+1.下载本模组的最新版本（从Release页面或下载本仓库），并保证你拥有最新的atmosphere和skyline。
 
 2.将模组文件复制到SD卡的根目录<img width="650" height="143" alt="image" src="https://github.com/user-attachments/assets/1b5d88e5-52a7-4c86-a90d-4a047b93e7dd" />
 
-（就在这里，确保这个目录有“atmosphere”文件夹即可，你并不需要自备Skyline或者是Arcropolis，里面应该已经自带最新版本的了）
+（就在这里，确保这个目录有“atmosphere”文件夹即可）
 
 3.***重启游戏！***
 
